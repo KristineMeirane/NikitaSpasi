@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902489094296",
+    "project_id": "kristinem-37432",
+    "storage_bucket": "kristinem-37432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902489094296:android:d809d0227e20e289cff8ed",
+        "android_client_info": {
+          "package_name": "com.example.eventify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902489094296-rtinvpb579oep99n6u2quclqkthkouns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIScopTSpNtUOVBXQkJD8XERgIcuIXeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902489094296-rtinvpb579oep99n6u2quclqkthkouns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
